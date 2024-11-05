@@ -15,12 +15,12 @@ Setup Steps:
 6. Follow instruction given in application
 
 List of Features:
-Add Category
-View Category
-Update Category
-Delete Category
-Add Expense
-View Expense
-Update Expense
-Delete Expense
-Generate Report
+1. Add Category
+2. View Category
+3. Update Category
+4. Delete Category
+5. Add Expense
+6. View Expense
+7. Update Expense
+8. Delete Expense
+9. Generate Report
