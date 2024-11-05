@@ -10,7 +10,7 @@ Setup Steps:
 1. clone repository
 2. make .venv using command python -m venv .venv
 3. activate virtual environment by command .venv\scripts\activate 
-4. install requirement.txt
+4. install requirement.txt by command pip install -r "requirements.txt"
 5. go inside src director and run command python expense_tracker.py
 6. Follow instruction given in application
 
